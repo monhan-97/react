@@ -23,6 +23,7 @@
     "strictNullChecks": true,
     "paths": {
       "react": ["packages/react"],
+      "shared": ["packages/shared"],
       "react-reconciler": ["packages/react-reconciler"]
     }
   },

@@ -1,0 +1,8 @@
+{
+  "name": "react-reconciler",
+  "description": "React package for creating custom renderers.",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
